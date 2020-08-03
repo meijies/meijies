@@ -1,4 +1,6 @@
-### Hi there 👋
+我热爱开源，[Distkv](https://github.com/distkv-project/distkv)是我第一个持续贡献的项目，虽然现在已经Archived。我计划的下一个持续贡献的项目是[ballista](https://github.com/ballista-compute/ballista),并在参与的过程中学习分布式计算的知识。我现在是一起学网校的实时计算工程师，喜欢写Java, Rust。
+
+<!--### Hi there 👋-->
 
 <!--
 **meijies/meijies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
